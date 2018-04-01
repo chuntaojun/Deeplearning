@@ -1,7 +1,449 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a23c026-1be5-4f43-8f98-bdb1b85e7a9a" name="Default" comment="" />
+    <list default="true" id="9a23c026-1be5-4f43-8f98-bdb1b85e7a9a" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/Parity learning.iml" afterPath="$PROJECT_DIR$/../Parity learning/.idea/Parity learning.iml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/dictionaries/chuntaojun.xml" afterPath="$PROJECT_DIR$/../Parity learning/.idea/dictionaries/chuntaojun.xml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Parity learning/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Parity learning/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/other.xml" afterPath="$PROJECT_DIR$/../Parity learning/.idea/other.xml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Parity learning/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/load_data.py" afterPath="$PROJECT_DIR$/../Parity learning/load_data.py" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/loss.png" afterPath="$PROJECT_DIR$/../Parity learning/loss.png" />
+      <change beforePath="$PROJECT_DIR$/../Parity learning/main.py" afterPath="$PROJECT_DIR$/../Parity learning/main.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/Prac_1.iml" afterPath="$PROJECT_DIR$/.idea/Prac_1.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/other.xml" afterPath="$PROJECT_DIR$/.idea/other.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/4001.jpg" afterPath="$PROJECT_DIR$/4001.jpg" />
+      <change beforePath="$PROJECT_DIR$/Graphic recognition.py" afterPath="$PROJECT_DIR$/Graphic recognition.py" />
+      <change beforePath="$PROJECT_DIR$/data.zip" afterPath="$PROJECT_DIR$/data.zip" />
+      <change beforePath="$PROJECT_DIR$/data/sample_submit.csv" afterPath="$PROJECT_DIR$/data/sample_submit.csv" />
+      <change beforePath="$PROJECT_DIR$/data/test.csv" afterPath="$PROJECT_DIR$/data/test.csv" />
+      <change beforePath="$PROJECT_DIR$/data/train.csv" afterPath="$PROJECT_DIR$/data/train.csv" />
+      <change beforePath="$PROJECT_DIR$/img/4000.png" afterPath="$PROJECT_DIR$/img/4000.png" />
+      <change beforePath="$PROJECT_DIR$/img/4001.png" afterPath="$PROJECT_DIR$/img/4001.png" />
+      <change beforePath="$PROJECT_DIR$/img/4002.png" afterPath="$PROJECT_DIR$/img/4002.png" />
+      <change beforePath="$PROJECT_DIR$/img/4003.png" afterPath="$PROJECT_DIR$/img/4003.png" />
+      <change beforePath="$PROJECT_DIR$/img/4004.png" afterPath="$PROJECT_DIR$/img/4004.png" />
+      <change beforePath="$PROJECT_DIR$/img/4005.png" afterPath="$PROJECT_DIR$/img/4005.png" />
+      <change beforePath="$PROJECT_DIR$/img/4006.png" afterPath="$PROJECT_DIR$/img/4006.png" />
+      <change beforePath="$PROJECT_DIR$/img/4007.png" afterPath="$PROJECT_DIR$/img/4007.png" />
+      <change beforePath="$PROJECT_DIR$/img/4008.png" afterPath="$PROJECT_DIR$/img/4008.png" />
+      <change beforePath="$PROJECT_DIR$/img/4009.png" afterPath="$PROJECT_DIR$/img/4009.png" />
+      <change beforePath="$PROJECT_DIR$/img/4010.png" afterPath="$PROJECT_DIR$/img/4010.png" />
+      <change beforePath="$PROJECT_DIR$/img/4011.png" afterPath="$PROJECT_DIR$/img/4011.png" />
+      <change beforePath="$PROJECT_DIR$/img/4012.png" afterPath="$PROJECT_DIR$/img/4012.png" />
+      <change beforePath="$PROJECT_DIR$/img/4013.png" afterPath="$PROJECT_DIR$/img/4013.png" />
+      <change beforePath="$PROJECT_DIR$/img/4014.png" afterPath="$PROJECT_DIR$/img/4014.png" />
+      <change beforePath="$PROJECT_DIR$/img/4015.png" afterPath="$PROJECT_DIR$/img/4015.png" />
+      <change beforePath="$PROJECT_DIR$/img/4016.png" afterPath="$PROJECT_DIR$/img/4016.png" />
+      <change beforePath="$PROJECT_DIR$/img/4017.png" afterPath="$PROJECT_DIR$/img/4017.png" />
+      <change beforePath="$PROJECT_DIR$/img/4018.png" afterPath="$PROJECT_DIR$/img/4018.png" />
+      <change beforePath="$PROJECT_DIR$/img/4019.png" afterPath="$PROJECT_DIR$/img/4019.png" />
+      <change beforePath="$PROJECT_DIR$/img/4020.png" afterPath="$PROJECT_DIR$/img/4020.png" />
+      <change beforePath="$PROJECT_DIR$/img/4021.png" afterPath="$PROJECT_DIR$/img/4021.png" />
+      <change beforePath="$PROJECT_DIR$/img/4022.png" afterPath="$PROJECT_DIR$/img/4022.png" />
+      <change beforePath="$PROJECT_DIR$/img/4023.png" afterPath="$PROJECT_DIR$/img/4023.png" />
+      <change beforePath="$PROJECT_DIR$/img/4024.png" afterPath="$PROJECT_DIR$/img/4024.png" />
+      <change beforePath="$PROJECT_DIR$/img/4025.png" afterPath="$PROJECT_DIR$/img/4025.png" />
+      <change beforePath="$PROJECT_DIR$/img/4026.png" afterPath="$PROJECT_DIR$/img/4026.png" />
+      <change beforePath="$PROJECT_DIR$/img/4027.png" afterPath="$PROJECT_DIR$/img/4027.png" />
+      <change beforePath="$PROJECT_DIR$/img/4028.png" afterPath="$PROJECT_DIR$/img/4028.png" />
+      <change beforePath="$PROJECT_DIR$/img/4029.png" afterPath="$PROJECT_DIR$/img/4029.png" />
+      <change beforePath="$PROJECT_DIR$/img/4030.png" afterPath="$PROJECT_DIR$/img/4030.png" />
+      <change beforePath="$PROJECT_DIR$/img/4031.png" afterPath="$PROJECT_DIR$/img/4031.png" />
+      <change beforePath="$PROJECT_DIR$/img/4032.png" afterPath="$PROJECT_DIR$/img/4032.png" />
+      <change beforePath="$PROJECT_DIR$/img/4033.png" afterPath="$PROJECT_DIR$/img/4033.png" />
+      <change beforePath="$PROJECT_DIR$/img/4034.png" afterPath="$PROJECT_DIR$/img/4034.png" />
+      <change beforePath="$PROJECT_DIR$/img/4035.png" afterPath="$PROJECT_DIR$/img/4035.png" />
+      <change beforePath="$PROJECT_DIR$/img/4036.png" afterPath="$PROJECT_DIR$/img/4036.png" />
+      <change beforePath="$PROJECT_DIR$/img/4037.png" afterPath="$PROJECT_DIR$/img/4037.png" />
+      <change beforePath="$PROJECT_DIR$/img/4038.png" afterPath="$PROJECT_DIR$/img/4038.png" />
+      <change beforePath="$PROJECT_DIR$/img/4039.png" afterPath="$PROJECT_DIR$/img/4039.png" />
+      <change beforePath="$PROJECT_DIR$/img/4040.png" afterPath="$PROJECT_DIR$/img/4040.png" />
+      <change beforePath="$PROJECT_DIR$/img/4041.png" afterPath="$PROJECT_DIR$/img/4041.png" />
+      <change beforePath="$PROJECT_DIR$/img/4042.png" afterPath="$PROJECT_DIR$/img/4042.png" />
+      <change beforePath="$PROJECT_DIR$/img/4043.png" afterPath="$PROJECT_DIR$/img/4043.png" />
+      <change beforePath="$PROJECT_DIR$/img/4044.png" afterPath="$PROJECT_DIR$/img/4044.png" />
+      <change beforePath="$PROJECT_DIR$/img/4045.png" afterPath="$PROJECT_DIR$/img/4045.png" />
+      <change beforePath="$PROJECT_DIR$/img/4046.png" afterPath="$PROJECT_DIR$/img/4046.png" />
+      <change beforePath="$PROJECT_DIR$/img/4047.png" afterPath="$PROJECT_DIR$/img/4047.png" />
+      <change beforePath="$PROJECT_DIR$/img/4048.png" afterPath="$PROJECT_DIR$/img/4048.png" />
+      <change beforePath="$PROJECT_DIR$/img/4049.png" afterPath="$PROJECT_DIR$/img/4049.png" />
+      <change beforePath="$PROJECT_DIR$/img/4050.png" afterPath="$PROJECT_DIR$/img/4050.png" />
+      <change beforePath="$PROJECT_DIR$/img/4051.png" afterPath="$PROJECT_DIR$/img/4051.png" />
+      <change beforePath="$PROJECT_DIR$/img/4052.png" afterPath="$PROJECT_DIR$/img/4052.png" />
+      <change beforePath="$PROJECT_DIR$/img/4053.png" afterPath="$PROJECT_DIR$/img/4053.png" />
+      <change beforePath="$PROJECT_DIR$/img/4054.png" afterPath="$PROJECT_DIR$/img/4054.png" />
+      <change beforePath="$PROJECT_DIR$/img/4055.png" afterPath="$PROJECT_DIR$/img/4055.png" />
+      <change beforePath="$PROJECT_DIR$/img/4056.png" afterPath="$PROJECT_DIR$/img/4056.png" />
+      <change beforePath="$PROJECT_DIR$/img/4057.png" afterPath="$PROJECT_DIR$/img/4057.png" />
+      <change beforePath="$PROJECT_DIR$/img/4058.png" afterPath="$PROJECT_DIR$/img/4058.png" />
+      <change beforePath="$PROJECT_DIR$/img/4059.png" afterPath="$PROJECT_DIR$/img/4059.png" />
+      <change beforePath="$PROJECT_DIR$/img/4060.png" afterPath="$PROJECT_DIR$/img/4060.png" />
+      <change beforePath="$PROJECT_DIR$/img/4061.png" afterPath="$PROJECT_DIR$/img/4061.png" />
+      <change beforePath="$PROJECT_DIR$/img/4062.png" afterPath="$PROJECT_DIR$/img/4062.png" />
+      <change beforePath="$PROJECT_DIR$/img/4063.png" afterPath="$PROJECT_DIR$/img/4063.png" />
+      <change beforePath="$PROJECT_DIR$/img/4064.png" afterPath="$PROJECT_DIR$/img/4064.png" />
+      <change beforePath="$PROJECT_DIR$/img/4065.png" afterPath="$PROJECT_DIR$/img/4065.png" />
+      <change beforePath="$PROJECT_DIR$/img/4066.png" afterPath="$PROJECT_DIR$/img/4066.png" />
+      <change beforePath="$PROJECT_DIR$/img/4067.png" afterPath="$PROJECT_DIR$/img/4067.png" />
+      <change beforePath="$PROJECT_DIR$/img/4068.png" afterPath="$PROJECT_DIR$/img/4068.png" />
+      <change beforePath="$PROJECT_DIR$/img/4069.png" afterPath="$PROJECT_DIR$/img/4069.png" />
+      <change beforePath="$PROJECT_DIR$/img/4070.png" afterPath="$PROJECT_DIR$/img/4070.png" />
+      <change beforePath="$PROJECT_DIR$/img/4071.png" afterPath="$PROJECT_DIR$/img/4071.png" />
+      <change beforePath="$PROJECT_DIR$/img/4072.png" afterPath="$PROJECT_DIR$/img/4072.png" />
+      <change beforePath="$PROJECT_DIR$/img/4073.png" afterPath="$PROJECT_DIR$/img/4073.png" />
+      <change beforePath="$PROJECT_DIR$/img/4074.png" afterPath="$PROJECT_DIR$/img/4074.png" />
+      <change beforePath="$PROJECT_DIR$/img/4075.png" afterPath="$PROJECT_DIR$/img/4075.png" />
+      <change beforePath="$PROJECT_DIR$/img/4076.png" afterPath="$PROJECT_DIR$/img/4076.png" />
+      <change beforePath="$PROJECT_DIR$/img/4077.png" afterPath="$PROJECT_DIR$/img/4077.png" />
+      <change beforePath="$PROJECT_DIR$/img/4078.png" afterPath="$PROJECT_DIR$/img/4078.png" />
+      <change beforePath="$PROJECT_DIR$/img/4079.png" afterPath="$PROJECT_DIR$/img/4079.png" />
+      <change beforePath="$PROJECT_DIR$/img/4080.png" afterPath="$PROJECT_DIR$/img/4080.png" />
+      <change beforePath="$PROJECT_DIR$/img/4081.png" afterPath="$PROJECT_DIR$/img/4081.png" />
+      <change beforePath="$PROJECT_DIR$/img/4082.png" afterPath="$PROJECT_DIR$/img/4082.png" />
+      <change beforePath="$PROJECT_DIR$/img/4083.png" afterPath="$PROJECT_DIR$/img/4083.png" />
+      <change beforePath="$PROJECT_DIR$/img/4084.png" afterPath="$PROJECT_DIR$/img/4084.png" />
+      <change beforePath="$PROJECT_DIR$/img/4085.png" afterPath="$PROJECT_DIR$/img/4085.png" />
+      <change beforePath="$PROJECT_DIR$/img/4086.png" afterPath="$PROJECT_DIR$/img/4086.png" />
+      <change beforePath="$PROJECT_DIR$/img/4087.png" afterPath="$PROJECT_DIR$/img/4087.png" />
+      <change beforePath="$PROJECT_DIR$/img/4088.png" afterPath="$PROJECT_DIR$/img/4088.png" />
+      <change beforePath="$PROJECT_DIR$/img/4089.png" afterPath="$PROJECT_DIR$/img/4089.png" />
+      <change beforePath="$PROJECT_DIR$/img/4090.png" afterPath="$PROJECT_DIR$/img/4090.png" />
+      <change beforePath="$PROJECT_DIR$/img/4091.png" afterPath="$PROJECT_DIR$/img/4091.png" />
+      <change beforePath="$PROJECT_DIR$/img/4092.png" afterPath="$PROJECT_DIR$/img/4092.png" />
+      <change beforePath="$PROJECT_DIR$/img/4093.png" afterPath="$PROJECT_DIR$/img/4093.png" />
+      <change beforePath="$PROJECT_DIR$/img/4094.png" afterPath="$PROJECT_DIR$/img/4094.png" />
+      <change beforePath="$PROJECT_DIR$/img/4095.png" afterPath="$PROJECT_DIR$/img/4095.png" />
+      <change beforePath="$PROJECT_DIR$/img/4096.png" afterPath="$PROJECT_DIR$/img/4096.png" />
+      <change beforePath="$PROJECT_DIR$/img/4097.png" afterPath="$PROJECT_DIR$/img/4097.png" />
+      <change beforePath="$PROJECT_DIR$/img/4098.png" afterPath="$PROJECT_DIR$/img/4098.png" />
+      <change beforePath="$PROJECT_DIR$/img/4099.png" afterPath="$PROJECT_DIR$/img/4099.png" />
+      <change beforePath="$PROJECT_DIR$/img/4100.png" afterPath="$PROJECT_DIR$/img/4100.png" />
+      <change beforePath="$PROJECT_DIR$/img/4101.png" afterPath="$PROJECT_DIR$/img/4101.png" />
+      <change beforePath="$PROJECT_DIR$/img/4102.png" afterPath="$PROJECT_DIR$/img/4102.png" />
+      <change beforePath="$PROJECT_DIR$/img/4103.png" afterPath="$PROJECT_DIR$/img/4103.png" />
+      <change beforePath="$PROJECT_DIR$/img/4104.png" afterPath="$PROJECT_DIR$/img/4104.png" />
+      <change beforePath="$PROJECT_DIR$/img/4105.png" afterPath="$PROJECT_DIR$/img/4105.png" />
+      <change beforePath="$PROJECT_DIR$/img/4106.png" afterPath="$PROJECT_DIR$/img/4106.png" />
+      <change beforePath="$PROJECT_DIR$/img/4107.png" afterPath="$PROJECT_DIR$/img/4107.png" />
+      <change beforePath="$PROJECT_DIR$/img/4108.png" afterPath="$PROJECT_DIR$/img/4108.png" />
+      <change beforePath="$PROJECT_DIR$/img/4109.png" afterPath="$PROJECT_DIR$/img/4109.png" />
+      <change beforePath="$PROJECT_DIR$/img/4110.png" afterPath="$PROJECT_DIR$/img/4110.png" />
+      <change beforePath="$PROJECT_DIR$/img/4111.png" afterPath="$PROJECT_DIR$/img/4111.png" />
+      <change beforePath="$PROJECT_DIR$/img/4112.png" afterPath="$PROJECT_DIR$/img/4112.png" />
+      <change beforePath="$PROJECT_DIR$/img/4113.png" afterPath="$PROJECT_DIR$/img/4113.png" />
+      <change beforePath="$PROJECT_DIR$/img/4114.png" afterPath="$PROJECT_DIR$/img/4114.png" />
+      <change beforePath="$PROJECT_DIR$/img/4115.png" afterPath="$PROJECT_DIR$/img/4115.png" />
+      <change beforePath="$PROJECT_DIR$/img/4116.png" afterPath="$PROJECT_DIR$/img/4116.png" />
+      <change beforePath="$PROJECT_DIR$/img/4117.png" afterPath="$PROJECT_DIR$/img/4117.png" />
+      <change beforePath="$PROJECT_DIR$/img/4118.png" afterPath="$PROJECT_DIR$/img/4118.png" />
+      <change beforePath="$PROJECT_DIR$/img/4119.png" afterPath="$PROJECT_DIR$/img/4119.png" />
+      <change beforePath="$PROJECT_DIR$/img/4120.png" afterPath="$PROJECT_DIR$/img/4120.png" />
+      <change beforePath="$PROJECT_DIR$/img/4121.png" afterPath="$PROJECT_DIR$/img/4121.png" />
+      <change beforePath="$PROJECT_DIR$/img/4122.png" afterPath="$PROJECT_DIR$/img/4122.png" />
+      <change beforePath="$PROJECT_DIR$/img/4123.png" afterPath="$PROJECT_DIR$/img/4123.png" />
+      <change beforePath="$PROJECT_DIR$/img/4124.png" afterPath="$PROJECT_DIR$/img/4124.png" />
+      <change beforePath="$PROJECT_DIR$/img/4125.png" afterPath="$PROJECT_DIR$/img/4125.png" />
+      <change beforePath="$PROJECT_DIR$/img/4126.png" afterPath="$PROJECT_DIR$/img/4126.png" />
+      <change beforePath="$PROJECT_DIR$/img/4127.png" afterPath="$PROJECT_DIR$/img/4127.png" />
+      <change beforePath="$PROJECT_DIR$/img/4128.png" afterPath="$PROJECT_DIR$/img/4128.png" />
+      <change beforePath="$PROJECT_DIR$/img/4129.png" afterPath="$PROJECT_DIR$/img/4129.png" />
+      <change beforePath="$PROJECT_DIR$/img/4130.png" afterPath="$PROJECT_DIR$/img/4130.png" />
+      <change beforePath="$PROJECT_DIR$/img/4131.png" afterPath="$PROJECT_DIR$/img/4131.png" />
+      <change beforePath="$PROJECT_DIR$/img/4132.png" afterPath="$PROJECT_DIR$/img/4132.png" />
+      <change beforePath="$PROJECT_DIR$/img/4133.png" afterPath="$PROJECT_DIR$/img/4133.png" />
+      <change beforePath="$PROJECT_DIR$/img/4134.png" afterPath="$PROJECT_DIR$/img/4134.png" />
+      <change beforePath="$PROJECT_DIR$/img/4135.png" afterPath="$PROJECT_DIR$/img/4135.png" />
+      <change beforePath="$PROJECT_DIR$/img/4136.png" afterPath="$PROJECT_DIR$/img/4136.png" />
+      <change beforePath="$PROJECT_DIR$/img/4137.png" afterPath="$PROJECT_DIR$/img/4137.png" />
+      <change beforePath="$PROJECT_DIR$/img/4138.png" afterPath="$PROJECT_DIR$/img/4138.png" />
+      <change beforePath="$PROJECT_DIR$/img/4139.png" afterPath="$PROJECT_DIR$/img/4139.png" />
+      <change beforePath="$PROJECT_DIR$/img/4140.png" afterPath="$PROJECT_DIR$/img/4140.png" />
+      <change beforePath="$PROJECT_DIR$/img/4141.png" afterPath="$PROJECT_DIR$/img/4141.png" />
+      <change beforePath="$PROJECT_DIR$/img/4142.png" afterPath="$PROJECT_DIR$/img/4142.png" />
+      <change beforePath="$PROJECT_DIR$/img/4143.png" afterPath="$PROJECT_DIR$/img/4143.png" />
+      <change beforePath="$PROJECT_DIR$/img/4144.png" afterPath="$PROJECT_DIR$/img/4144.png" />
+      <change beforePath="$PROJECT_DIR$/img/4145.png" afterPath="$PROJECT_DIR$/img/4145.png" />
+      <change beforePath="$PROJECT_DIR$/img/4146.png" afterPath="$PROJECT_DIR$/img/4146.png" />
+      <change beforePath="$PROJECT_DIR$/img/4147.png" afterPath="$PROJECT_DIR$/img/4147.png" />
+      <change beforePath="$PROJECT_DIR$/img/4148.png" afterPath="$PROJECT_DIR$/img/4148.png" />
+      <change beforePath="$PROJECT_DIR$/img/4149.png" afterPath="$PROJECT_DIR$/img/4149.png" />
+      <change beforePath="$PROJECT_DIR$/img/4150.png" afterPath="$PROJECT_DIR$/img/4150.png" />
+      <change beforePath="$PROJECT_DIR$/img/4151.png" afterPath="$PROJECT_DIR$/img/4151.png" />
+      <change beforePath="$PROJECT_DIR$/img/4152.png" afterPath="$PROJECT_DIR$/img/4152.png" />
+      <change beforePath="$PROJECT_DIR$/img/4153.png" afterPath="$PROJECT_DIR$/img/4153.png" />
+      <change beforePath="$PROJECT_DIR$/img/4154.png" afterPath="$PROJECT_DIR$/img/4154.png" />
+      <change beforePath="$PROJECT_DIR$/img/4155.png" afterPath="$PROJECT_DIR$/img/4155.png" />
+      <change beforePath="$PROJECT_DIR$/img/4156.png" afterPath="$PROJECT_DIR$/img/4156.png" />
+      <change beforePath="$PROJECT_DIR$/img/4157.png" afterPath="$PROJECT_DIR$/img/4157.png" />
+      <change beforePath="$PROJECT_DIR$/img/4158.png" afterPath="$PROJECT_DIR$/img/4158.png" />
+      <change beforePath="$PROJECT_DIR$/img/4159.png" afterPath="$PROJECT_DIR$/img/4159.png" />
+      <change beforePath="$PROJECT_DIR$/img/4160.png" afterPath="$PROJECT_DIR$/img/4160.png" />
+      <change beforePath="$PROJECT_DIR$/img/4161.png" afterPath="$PROJECT_DIR$/img/4161.png" />
+      <change beforePath="$PROJECT_DIR$/img/4162.png" afterPath="$PROJECT_DIR$/img/4162.png" />
+      <change beforePath="$PROJECT_DIR$/img/4163.png" afterPath="$PROJECT_DIR$/img/4163.png" />
+      <change beforePath="$PROJECT_DIR$/img/4164.png" afterPath="$PROJECT_DIR$/img/4164.png" />
+      <change beforePath="$PROJECT_DIR$/img/4165.png" afterPath="$PROJECT_DIR$/img/4165.png" />
+      <change beforePath="$PROJECT_DIR$/img/4166.png" afterPath="$PROJECT_DIR$/img/4166.png" />
+      <change beforePath="$PROJECT_DIR$/img/4167.png" afterPath="$PROJECT_DIR$/img/4167.png" />
+      <change beforePath="$PROJECT_DIR$/img/4168.png" afterPath="$PROJECT_DIR$/img/4168.png" />
+      <change beforePath="$PROJECT_DIR$/img/4169.png" afterPath="$PROJECT_DIR$/img/4169.png" />
+      <change beforePath="$PROJECT_DIR$/img/4170.png" afterPath="$PROJECT_DIR$/img/4170.png" />
+      <change beforePath="$PROJECT_DIR$/img/4171.png" afterPath="$PROJECT_DIR$/img/4171.png" />
+      <change beforePath="$PROJECT_DIR$/img/4172.png" afterPath="$PROJECT_DIR$/img/4172.png" />
+      <change beforePath="$PROJECT_DIR$/img/4173.png" afterPath="$PROJECT_DIR$/img/4173.png" />
+      <change beforePath="$PROJECT_DIR$/img/4174.png" afterPath="$PROJECT_DIR$/img/4174.png" />
+      <change beforePath="$PROJECT_DIR$/img/4175.png" afterPath="$PROJECT_DIR$/img/4175.png" />
+      <change beforePath="$PROJECT_DIR$/img/4176.png" afterPath="$PROJECT_DIR$/img/4176.png" />
+      <change beforePath="$PROJECT_DIR$/img/4177.png" afterPath="$PROJECT_DIR$/img/4177.png" />
+      <change beforePath="$PROJECT_DIR$/img/4178.png" afterPath="$PROJECT_DIR$/img/4178.png" />
+      <change beforePath="$PROJECT_DIR$/img/4179.png" afterPath="$PROJECT_DIR$/img/4179.png" />
+      <change beforePath="$PROJECT_DIR$/img/4180.png" afterPath="$PROJECT_DIR$/img/4180.png" />
+      <change beforePath="$PROJECT_DIR$/img/4181.png" afterPath="$PROJECT_DIR$/img/4181.png" />
+      <change beforePath="$PROJECT_DIR$/img/4182.png" afterPath="$PROJECT_DIR$/img/4182.png" />
+      <change beforePath="$PROJECT_DIR$/img/4183.png" afterPath="$PROJECT_DIR$/img/4183.png" />
+      <change beforePath="$PROJECT_DIR$/img/4184.png" afterPath="$PROJECT_DIR$/img/4184.png" />
+      <change beforePath="$PROJECT_DIR$/img/4185.png" afterPath="$PROJECT_DIR$/img/4185.png" />
+      <change beforePath="$PROJECT_DIR$/img/4186.png" afterPath="$PROJECT_DIR$/img/4186.png" />
+      <change beforePath="$PROJECT_DIR$/img/4187.png" afterPath="$PROJECT_DIR$/img/4187.png" />
+      <change beforePath="$PROJECT_DIR$/img/4188.png" afterPath="$PROJECT_DIR$/img/4188.png" />
+      <change beforePath="$PROJECT_DIR$/img/4189.png" afterPath="$PROJECT_DIR$/img/4189.png" />
+      <change beforePath="$PROJECT_DIR$/img/4190.png" afterPath="$PROJECT_DIR$/img/4190.png" />
+      <change beforePath="$PROJECT_DIR$/img/4191.png" afterPath="$PROJECT_DIR$/img/4191.png" />
+      <change beforePath="$PROJECT_DIR$/img/4192.png" afterPath="$PROJECT_DIR$/img/4192.png" />
+      <change beforePath="$PROJECT_DIR$/img/4193.png" afterPath="$PROJECT_DIR$/img/4193.png" />
+      <change beforePath="$PROJECT_DIR$/img/4194.png" afterPath="$PROJECT_DIR$/img/4194.png" />
+      <change beforePath="$PROJECT_DIR$/img/4195.png" afterPath="$PROJECT_DIR$/img/4195.png" />
+      <change beforePath="$PROJECT_DIR$/img/4196.png" afterPath="$PROJECT_DIR$/img/4196.png" />
+      <change beforePath="$PROJECT_DIR$/img/4197.png" afterPath="$PROJECT_DIR$/img/4197.png" />
+      <change beforePath="$PROJECT_DIR$/img/4198.png" afterPath="$PROJECT_DIR$/img/4198.png" />
+      <change beforePath="$PROJECT_DIR$/img/4199.png" afterPath="$PROJECT_DIR$/img/4199.png" />
+      <change beforePath="$PROJECT_DIR$/img/4200.png" afterPath="$PROJECT_DIR$/img/4200.png" />
+      <change beforePath="$PROJECT_DIR$/img/4201.png" afterPath="$PROJECT_DIR$/img/4201.png" />
+      <change beforePath="$PROJECT_DIR$/img/4202.png" afterPath="$PROJECT_DIR$/img/4202.png" />
+      <change beforePath="$PROJECT_DIR$/img/4203.png" afterPath="$PROJECT_DIR$/img/4203.png" />
+      <change beforePath="$PROJECT_DIR$/img/4204.png" afterPath="$PROJECT_DIR$/img/4204.png" />
+      <change beforePath="$PROJECT_DIR$/img/4205.png" afterPath="$PROJECT_DIR$/img/4205.png" />
+      <change beforePath="$PROJECT_DIR$/img/4206.png" afterPath="$PROJECT_DIR$/img/4206.png" />
+      <change beforePath="$PROJECT_DIR$/img/4207.png" afterPath="$PROJECT_DIR$/img/4207.png" />
+      <change beforePath="$PROJECT_DIR$/img/4208.png" afterPath="$PROJECT_DIR$/img/4208.png" />
+      <change beforePath="$PROJECT_DIR$/img/4209.png" afterPath="$PROJECT_DIR$/img/4209.png" />
+      <change beforePath="$PROJECT_DIR$/img/4210.png" afterPath="$PROJECT_DIR$/img/4210.png" />
+      <change beforePath="$PROJECT_DIR$/img/4211.png" afterPath="$PROJECT_DIR$/img/4211.png" />
+      <change beforePath="$PROJECT_DIR$/img/4212.png" afterPath="$PROJECT_DIR$/img/4212.png" />
+      <change beforePath="$PROJECT_DIR$/img/4213.png" afterPath="$PROJECT_DIR$/img/4213.png" />
+      <change beforePath="$PROJECT_DIR$/img/4214.png" afterPath="$PROJECT_DIR$/img/4214.png" />
+      <change beforePath="$PROJECT_DIR$/img/4215.png" afterPath="$PROJECT_DIR$/img/4215.png" />
+      <change beforePath="$PROJECT_DIR$/img/4216.png" afterPath="$PROJECT_DIR$/img/4216.png" />
+      <change beforePath="$PROJECT_DIR$/img/4217.png" afterPath="$PROJECT_DIR$/img/4217.png" />
+      <change beforePath="$PROJECT_DIR$/img/4218.png" afterPath="$PROJECT_DIR$/img/4218.png" />
+      <change beforePath="$PROJECT_DIR$/img/4219.png" afterPath="$PROJECT_DIR$/img/4219.png" />
+      <change beforePath="$PROJECT_DIR$/img/4220.png" afterPath="$PROJECT_DIR$/img/4220.png" />
+      <change beforePath="$PROJECT_DIR$/img/4221.png" afterPath="$PROJECT_DIR$/img/4221.png" />
+      <change beforePath="$PROJECT_DIR$/img/4222.png" afterPath="$PROJECT_DIR$/img/4222.png" />
+      <change beforePath="$PROJECT_DIR$/img/4223.png" afterPath="$PROJECT_DIR$/img/4223.png" />
+      <change beforePath="$PROJECT_DIR$/img/4224.png" afterPath="$PROJECT_DIR$/img/4224.png" />
+      <change beforePath="$PROJECT_DIR$/img/4225.png" afterPath="$PROJECT_DIR$/img/4225.png" />
+      <change beforePath="$PROJECT_DIR$/img/4226.png" afterPath="$PROJECT_DIR$/img/4226.png" />
+      <change beforePath="$PROJECT_DIR$/img/4227.png" afterPath="$PROJECT_DIR$/img/4227.png" />
+      <change beforePath="$PROJECT_DIR$/img/4228.png" afterPath="$PROJECT_DIR$/img/4228.png" />
+      <change beforePath="$PROJECT_DIR$/img/4229.png" afterPath="$PROJECT_DIR$/img/4229.png" />
+      <change beforePath="$PROJECT_DIR$/img/4230.png" afterPath="$PROJECT_DIR$/img/4230.png" />
+      <change beforePath="$PROJECT_DIR$/img/4231.png" afterPath="$PROJECT_DIR$/img/4231.png" />
+      <change beforePath="$PROJECT_DIR$/img/4232.png" afterPath="$PROJECT_DIR$/img/4232.png" />
+      <change beforePath="$PROJECT_DIR$/img/4233.png" afterPath="$PROJECT_DIR$/img/4233.png" />
+      <change beforePath="$PROJECT_DIR$/img/4234.png" afterPath="$PROJECT_DIR$/img/4234.png" />
+      <change beforePath="$PROJECT_DIR$/img/4235.png" afterPath="$PROJECT_DIR$/img/4235.png" />
+      <change beforePath="$PROJECT_DIR$/img/4236.png" afterPath="$PROJECT_DIR$/img/4236.png" />
+      <change beforePath="$PROJECT_DIR$/img/4237.png" afterPath="$PROJECT_DIR$/img/4237.png" />
+      <change beforePath="$PROJECT_DIR$/img/4238.png" afterPath="$PROJECT_DIR$/img/4238.png" />
+      <change beforePath="$PROJECT_DIR$/img/4239.png" afterPath="$PROJECT_DIR$/img/4239.png" />
+      <change beforePath="$PROJECT_DIR$/img/4240.png" afterPath="$PROJECT_DIR$/img/4240.png" />
+      <change beforePath="$PROJECT_DIR$/img/4241.png" afterPath="$PROJECT_DIR$/img/4241.png" />
+      <change beforePath="$PROJECT_DIR$/img/4242.png" afterPath="$PROJECT_DIR$/img/4242.png" />
+      <change beforePath="$PROJECT_DIR$/img/4243.png" afterPath="$PROJECT_DIR$/img/4243.png" />
+      <change beforePath="$PROJECT_DIR$/img/4244.png" afterPath="$PROJECT_DIR$/img/4244.png" />
+      <change beforePath="$PROJECT_DIR$/img/4245.png" afterPath="$PROJECT_DIR$/img/4245.png" />
+      <change beforePath="$PROJECT_DIR$/img/4246.png" afterPath="$PROJECT_DIR$/img/4246.png" />
+      <change beforePath="$PROJECT_DIR$/img/4247.png" afterPath="$PROJECT_DIR$/img/4247.png" />
+      <change beforePath="$PROJECT_DIR$/img/4248.png" afterPath="$PROJECT_DIR$/img/4248.png" />
+      <change beforePath="$PROJECT_DIR$/img/4249.png" afterPath="$PROJECT_DIR$/img/4249.png" />
+      <change beforePath="$PROJECT_DIR$/img/4250.png" afterPath="$PROJECT_DIR$/img/4250.png" />
+      <change beforePath="$PROJECT_DIR$/img/4251.png" afterPath="$PROJECT_DIR$/img/4251.png" />
+      <change beforePath="$PROJECT_DIR$/img/4252.png" afterPath="$PROJECT_DIR$/img/4252.png" />
+      <change beforePath="$PROJECT_DIR$/img/4253.png" afterPath="$PROJECT_DIR$/img/4253.png" />
+      <change beforePath="$PROJECT_DIR$/img/4254.png" afterPath="$PROJECT_DIR$/img/4254.png" />
+      <change beforePath="$PROJECT_DIR$/img/4255.png" afterPath="$PROJECT_DIR$/img/4255.png" />
+      <change beforePath="$PROJECT_DIR$/img/4256.png" afterPath="$PROJECT_DIR$/img/4256.png" />
+      <change beforePath="$PROJECT_DIR$/img/4257.png" afterPath="$PROJECT_DIR$/img/4257.png" />
+      <change beforePath="$PROJECT_DIR$/img/4258.png" afterPath="$PROJECT_DIR$/img/4258.png" />
+      <change beforePath="$PROJECT_DIR$/img/4259.png" afterPath="$PROJECT_DIR$/img/4259.png" />
+      <change beforePath="$PROJECT_DIR$/img/4260.png" afterPath="$PROJECT_DIR$/img/4260.png" />
+      <change beforePath="$PROJECT_DIR$/img/4261.png" afterPath="$PROJECT_DIR$/img/4261.png" />
+      <change beforePath="$PROJECT_DIR$/img/4262.png" afterPath="$PROJECT_DIR$/img/4262.png" />
+      <change beforePath="$PROJECT_DIR$/img/4263.png" afterPath="$PROJECT_DIR$/img/4263.png" />
+      <change beforePath="$PROJECT_DIR$/img/4264.png" afterPath="$PROJECT_DIR$/img/4264.png" />
+      <change beforePath="$PROJECT_DIR$/img/4265.png" afterPath="$PROJECT_DIR$/img/4265.png" />
+      <change beforePath="$PROJECT_DIR$/img/4266.png" afterPath="$PROJECT_DIR$/img/4266.png" />
+      <change beforePath="$PROJECT_DIR$/img/4267.png" afterPath="$PROJECT_DIR$/img/4267.png" />
+      <change beforePath="$PROJECT_DIR$/img/4268.png" afterPath="$PROJECT_DIR$/img/4268.png" />
+      <change beforePath="$PROJECT_DIR$/img/4269.png" afterPath="$PROJECT_DIR$/img/4269.png" />
+      <change beforePath="$PROJECT_DIR$/img/4270.png" afterPath="$PROJECT_DIR$/img/4270.png" />
+      <change beforePath="$PROJECT_DIR$/img/4271.png" afterPath="$PROJECT_DIR$/img/4271.png" />
+      <change beforePath="$PROJECT_DIR$/img/4272.png" afterPath="$PROJECT_DIR$/img/4272.png" />
+      <change beforePath="$PROJECT_DIR$/img/4273.png" afterPath="$PROJECT_DIR$/img/4273.png" />
+      <change beforePath="$PROJECT_DIR$/img/4274.png" afterPath="$PROJECT_DIR$/img/4274.png" />
+      <change beforePath="$PROJECT_DIR$/img/4275.png" afterPath="$PROJECT_DIR$/img/4275.png" />
+      <change beforePath="$PROJECT_DIR$/img/4276.png" afterPath="$PROJECT_DIR$/img/4276.png" />
+      <change beforePath="$PROJECT_DIR$/img/4277.png" afterPath="$PROJECT_DIR$/img/4277.png" />
+      <change beforePath="$PROJECT_DIR$/img/4278.png" afterPath="$PROJECT_DIR$/img/4278.png" />
+      <change beforePath="$PROJECT_DIR$/img/4279.png" afterPath="$PROJECT_DIR$/img/4279.png" />
+      <change beforePath="$PROJECT_DIR$/img/4280.png" afterPath="$PROJECT_DIR$/img/4280.png" />
+      <change beforePath="$PROJECT_DIR$/img/4281.png" afterPath="$PROJECT_DIR$/img/4281.png" />
+      <change beforePath="$PROJECT_DIR$/img/4282.png" afterPath="$PROJECT_DIR$/img/4282.png" />
+      <change beforePath="$PROJECT_DIR$/img/4283.png" afterPath="$PROJECT_DIR$/img/4283.png" />
+      <change beforePath="$PROJECT_DIR$/img/4284.png" afterPath="$PROJECT_DIR$/img/4284.png" />
+      <change beforePath="$PROJECT_DIR$/img/4285.png" afterPath="$PROJECT_DIR$/img/4285.png" />
+      <change beforePath="$PROJECT_DIR$/img/4286.png" afterPath="$PROJECT_DIR$/img/4286.png" />
+      <change beforePath="$PROJECT_DIR$/img/4287.png" afterPath="$PROJECT_DIR$/img/4287.png" />
+      <change beforePath="$PROJECT_DIR$/img/4288.png" afterPath="$PROJECT_DIR$/img/4288.png" />
+      <change beforePath="$PROJECT_DIR$/img/4289.png" afterPath="$PROJECT_DIR$/img/4289.png" />
+      <change beforePath="$PROJECT_DIR$/img/4290.png" afterPath="$PROJECT_DIR$/img/4290.png" />
+      <change beforePath="$PROJECT_DIR$/img/4291.png" afterPath="$PROJECT_DIR$/img/4291.png" />
+      <change beforePath="$PROJECT_DIR$/img/4292.png" afterPath="$PROJECT_DIR$/img/4292.png" />
+      <change beforePath="$PROJECT_DIR$/img/4293.png" afterPath="$PROJECT_DIR$/img/4293.png" />
+      <change beforePath="$PROJECT_DIR$/img/4294.png" afterPath="$PROJECT_DIR$/img/4294.png" />
+      <change beforePath="$PROJECT_DIR$/img/4295.png" afterPath="$PROJECT_DIR$/img/4295.png" />
+      <change beforePath="$PROJECT_DIR$/img/4296.png" afterPath="$PROJECT_DIR$/img/4296.png" />
+      <change beforePath="$PROJECT_DIR$/img/4297.png" afterPath="$PROJECT_DIR$/img/4297.png" />
+      <change beforePath="$PROJECT_DIR$/img/4298.png" afterPath="$PROJECT_DIR$/img/4298.png" />
+      <change beforePath="$PROJECT_DIR$/img/4299.png" afterPath="$PROJECT_DIR$/img/4299.png" />
+      <change beforePath="$PROJECT_DIR$/img/4300.png" afterPath="$PROJECT_DIR$/img/4300.png" />
+      <change beforePath="$PROJECT_DIR$/img/4301.png" afterPath="$PROJECT_DIR$/img/4301.png" />
+      <change beforePath="$PROJECT_DIR$/img/4302.png" afterPath="$PROJECT_DIR$/img/4302.png" />
+      <change beforePath="$PROJECT_DIR$/img/4303.png" afterPath="$PROJECT_DIR$/img/4303.png" />
+      <change beforePath="$PROJECT_DIR$/img/4304.png" afterPath="$PROJECT_DIR$/img/4304.png" />
+      <change beforePath="$PROJECT_DIR$/img/4305.png" afterPath="$PROJECT_DIR$/img/4305.png" />
+      <change beforePath="$PROJECT_DIR$/img/4306.png" afterPath="$PROJECT_DIR$/img/4306.png" />
+      <change beforePath="$PROJECT_DIR$/img/4307.png" afterPath="$PROJECT_DIR$/img/4307.png" />
+      <change beforePath="$PROJECT_DIR$/img/4308.png" afterPath="$PROJECT_DIR$/img/4308.png" />
+      <change beforePath="$PROJECT_DIR$/img/4309.png" afterPath="$PROJECT_DIR$/img/4309.png" />
+      <change beforePath="$PROJECT_DIR$/img/4310.png" afterPath="$PROJECT_DIR$/img/4310.png" />
+      <change beforePath="$PROJECT_DIR$/img/4311.png" afterPath="$PROJECT_DIR$/img/4311.png" />
+      <change beforePath="$PROJECT_DIR$/img/4312.png" afterPath="$PROJECT_DIR$/img/4312.png" />
+      <change beforePath="$PROJECT_DIR$/img/4313.png" afterPath="$PROJECT_DIR$/img/4313.png" />
+      <change beforePath="$PROJECT_DIR$/img/4314.png" afterPath="$PROJECT_DIR$/img/4314.png" />
+      <change beforePath="$PROJECT_DIR$/img/4315.png" afterPath="$PROJECT_DIR$/img/4315.png" />
+      <change beforePath="$PROJECT_DIR$/img/4316.png" afterPath="$PROJECT_DIR$/img/4316.png" />
+      <change beforePath="$PROJECT_DIR$/img/4317.png" afterPath="$PROJECT_DIR$/img/4317.png" />
+      <change beforePath="$PROJECT_DIR$/img/4318.png" afterPath="$PROJECT_DIR$/img/4318.png" />
+      <change beforePath="$PROJECT_DIR$/img/4319.png" afterPath="$PROJECT_DIR$/img/4319.png" />
+      <change beforePath="$PROJECT_DIR$/img/4320.png" afterPath="$PROJECT_DIR$/img/4320.png" />
+      <change beforePath="$PROJECT_DIR$/img/4321.png" afterPath="$PROJECT_DIR$/img/4321.png" />
+      <change beforePath="$PROJECT_DIR$/img/4322.png" afterPath="$PROJECT_DIR$/img/4322.png" />
+      <change beforePath="$PROJECT_DIR$/img/4323.png" afterPath="$PROJECT_DIR$/img/4323.png" />
+      <change beforePath="$PROJECT_DIR$/img/4324.png" afterPath="$PROJECT_DIR$/img/4324.png" />
+      <change beforePath="$PROJECT_DIR$/img/4325.png" afterPath="$PROJECT_DIR$/img/4325.png" />
+      <change beforePath="$PROJECT_DIR$/img/4326.png" afterPath="$PROJECT_DIR$/img/4326.png" />
+      <change beforePath="$PROJECT_DIR$/img/4327.png" afterPath="$PROJECT_DIR$/img/4327.png" />
+      <change beforePath="$PROJECT_DIR$/img/4328.png" afterPath="$PROJECT_DIR$/img/4328.png" />
+      <change beforePath="$PROJECT_DIR$/img/4329.png" afterPath="$PROJECT_DIR$/img/4329.png" />
+      <change beforePath="$PROJECT_DIR$/img/4330.png" afterPath="$PROJECT_DIR$/img/4330.png" />
+      <change beforePath="$PROJECT_DIR$/img/4331.png" afterPath="$PROJECT_DIR$/img/4331.png" />
+      <change beforePath="$PROJECT_DIR$/img/4332.png" afterPath="$PROJECT_DIR$/img/4332.png" />
+      <change beforePath="$PROJECT_DIR$/img/4333.png" afterPath="$PROJECT_DIR$/img/4333.png" />
+      <change beforePath="$PROJECT_DIR$/img/4334.png" afterPath="$PROJECT_DIR$/img/4334.png" />
+      <change beforePath="$PROJECT_DIR$/img/4335.png" afterPath="$PROJECT_DIR$/img/4335.png" />
+      <change beforePath="$PROJECT_DIR$/img/4336.png" afterPath="$PROJECT_DIR$/img/4336.png" />
+      <change beforePath="$PROJECT_DIR$/img/4337.png" afterPath="$PROJECT_DIR$/img/4337.png" />
+      <change beforePath="$PROJECT_DIR$/img/4338.png" afterPath="$PROJECT_DIR$/img/4338.png" />
+      <change beforePath="$PROJECT_DIR$/img/4339.png" afterPath="$PROJECT_DIR$/img/4339.png" />
+      <change beforePath="$PROJECT_DIR$/img/4340.png" afterPath="$PROJECT_DIR$/img/4340.png" />
+      <change beforePath="$PROJECT_DIR$/img/4341.png" afterPath="$PROJECT_DIR$/img/4341.png" />
+      <change beforePath="$PROJECT_DIR$/img/4342.png" afterPath="$PROJECT_DIR$/img/4342.png" />
+      <change beforePath="$PROJECT_DIR$/img/4343.png" afterPath="$PROJECT_DIR$/img/4343.png" />
+      <change beforePath="$PROJECT_DIR$/img/4344.png" afterPath="$PROJECT_DIR$/img/4344.png" />
+      <change beforePath="$PROJECT_DIR$/img/4345.png" afterPath="$PROJECT_DIR$/img/4345.png" />
+      <change beforePath="$PROJECT_DIR$/img/4346.png" afterPath="$PROJECT_DIR$/img/4346.png" />
+      <change beforePath="$PROJECT_DIR$/img/4347.png" afterPath="$PROJECT_DIR$/img/4347.png" />
+      <change beforePath="$PROJECT_DIR$/img/4348.png" afterPath="$PROJECT_DIR$/img/4348.png" />
+      <change beforePath="$PROJECT_DIR$/img/4349.png" afterPath="$PROJECT_DIR$/img/4349.png" />
+      <change beforePath="$PROJECT_DIR$/img/4350.png" afterPath="$PROJECT_DIR$/img/4350.png" />
+      <change beforePath="$PROJECT_DIR$/img/4351.png" afterPath="$PROJECT_DIR$/img/4351.png" />
+      <change beforePath="$PROJECT_DIR$/img/4352.png" afterPath="$PROJECT_DIR$/img/4352.png" />
+      <change beforePath="$PROJECT_DIR$/img/4353.png" afterPath="$PROJECT_DIR$/img/4353.png" />
+      <change beforePath="$PROJECT_DIR$/img/4354.png" afterPath="$PROJECT_DIR$/img/4354.png" />
+      <change beforePath="$PROJECT_DIR$/img/4355.png" afterPath="$PROJECT_DIR$/img/4355.png" />
+      <change beforePath="$PROJECT_DIR$/img/4356.png" afterPath="$PROJECT_DIR$/img/4356.png" />
+      <change beforePath="$PROJECT_DIR$/img/4357.png" afterPath="$PROJECT_DIR$/img/4357.png" />
+      <change beforePath="$PROJECT_DIR$/img/4358.png" afterPath="$PROJECT_DIR$/img/4358.png" />
+      <change beforePath="$PROJECT_DIR$/img/4359.png" afterPath="$PROJECT_DIR$/img/4359.png" />
+      <change beforePath="$PROJECT_DIR$/img/4360.png" afterPath="$PROJECT_DIR$/img/4360.png" />
+      <change beforePath="$PROJECT_DIR$/img/4361.png" afterPath="$PROJECT_DIR$/img/4361.png" />
+      <change beforePath="$PROJECT_DIR$/img/4362.png" afterPath="$PROJECT_DIR$/img/4362.png" />
+      <change beforePath="$PROJECT_DIR$/img/4363.png" afterPath="$PROJECT_DIR$/img/4363.png" />
+      <change beforePath="$PROJECT_DIR$/img/4364.png" afterPath="$PROJECT_DIR$/img/4364.png" />
+      <change beforePath="$PROJECT_DIR$/img/4365.png" afterPath="$PROJECT_DIR$/img/4365.png" />
+      <change beforePath="$PROJECT_DIR$/img/4366.png" afterPath="$PROJECT_DIR$/img/4366.png" />
+      <change beforePath="$PROJECT_DIR$/img/4367.png" afterPath="$PROJECT_DIR$/img/4367.png" />
+      <change beforePath="$PROJECT_DIR$/img/4368.png" afterPath="$PROJECT_DIR$/img/4368.png" />
+      <change beforePath="$PROJECT_DIR$/img/4369.png" afterPath="$PROJECT_DIR$/img/4369.png" />
+      <change beforePath="$PROJECT_DIR$/img/4370.png" afterPath="$PROJECT_DIR$/img/4370.png" />
+      <change beforePath="$PROJECT_DIR$/img/4371.png" afterPath="$PROJECT_DIR$/img/4371.png" />
+      <change beforePath="$PROJECT_DIR$/img/4372.png" afterPath="$PROJECT_DIR$/img/4372.png" />
+      <change beforePath="$PROJECT_DIR$/img/4373.png" afterPath="$PROJECT_DIR$/img/4373.png" />
+      <change beforePath="$PROJECT_DIR$/img/4374.png" afterPath="$PROJECT_DIR$/img/4374.png" />
+      <change beforePath="$PROJECT_DIR$/img/4375.png" afterPath="$PROJECT_DIR$/img/4375.png" />
+      <change beforePath="$PROJECT_DIR$/img/4376.png" afterPath="$PROJECT_DIR$/img/4376.png" />
+      <change beforePath="$PROJECT_DIR$/img/4377.png" afterPath="$PROJECT_DIR$/img/4377.png" />
+      <change beforePath="$PROJECT_DIR$/img/4378.png" afterPath="$PROJECT_DIR$/img/4378.png" />
+      <change beforePath="$PROJECT_DIR$/img/4379.png" afterPath="$PROJECT_DIR$/img/4379.png" />
+      <change beforePath="$PROJECT_DIR$/img/4380.png" afterPath="$PROJECT_DIR$/img/4380.png" />
+      <change beforePath="$PROJECT_DIR$/img/4381.png" afterPath="$PROJECT_DIR$/img/4381.png" />
+      <change beforePath="$PROJECT_DIR$/img/4382.png" afterPath="$PROJECT_DIR$/img/4382.png" />
+      <change beforePath="$PROJECT_DIR$/img/4383.png" afterPath="$PROJECT_DIR$/img/4383.png" />
+      <change beforePath="$PROJECT_DIR$/img/4384.png" afterPath="$PROJECT_DIR$/img/4384.png" />
+      <change beforePath="$PROJECT_DIR$/img/4385.png" afterPath="$PROJECT_DIR$/img/4385.png" />
+      <change beforePath="$PROJECT_DIR$/img/4386.png" afterPath="$PROJECT_DIR$/img/4386.png" />
+      <change beforePath="$PROJECT_DIR$/img/4387.png" afterPath="$PROJECT_DIR$/img/4387.png" />
+      <change beforePath="$PROJECT_DIR$/img/4388.png" afterPath="$PROJECT_DIR$/img/4388.png" />
+      <change beforePath="$PROJECT_DIR$/img/4389.png" afterPath="$PROJECT_DIR$/img/4389.png" />
+      <change beforePath="$PROJECT_DIR$/img/4390.png" afterPath="$PROJECT_DIR$/img/4390.png" />
+      <change beforePath="$PROJECT_DIR$/img/4391.png" afterPath="$PROJECT_DIR$/img/4391.png" />
+      <change beforePath="$PROJECT_DIR$/img/4392.png" afterPath="$PROJECT_DIR$/img/4392.png" />
+      <change beforePath="$PROJECT_DIR$/img/4393.png" afterPath="$PROJECT_DIR$/img/4393.png" />
+      <change beforePath="$PROJECT_DIR$/img/4394.png" afterPath="$PROJECT_DIR$/img/4394.png" />
+      <change beforePath="$PROJECT_DIR$/img/4395.png" afterPath="$PROJECT_DIR$/img/4395.png" />
+      <change beforePath="$PROJECT_DIR$/img/4396.png" afterPath="$PROJECT_DIR$/img/4396.png" />
+      <change beforePath="$PROJECT_DIR$/img/4397.png" afterPath="$PROJECT_DIR$/img/4397.png" />
+      <change beforePath="$PROJECT_DIR$/img/4398.png" afterPath="$PROJECT_DIR$/img/4398.png" />
+      <change beforePath="$PROJECT_DIR$/img/4399.png" afterPath="$PROJECT_DIR$/img/4399.png" />
+      <change beforePath="$PROJECT_DIR$/img/4400.png" afterPath="$PROJECT_DIR$/img/4400.png" />
+      <change beforePath="$PROJECT_DIR$/load_data.py" afterPath="$PROJECT_DIR$/load_data.py" />
+      <change beforePath="$PROJECT_DIR$/loss_pic.png" afterPath="$PROJECT_DIR$/loss_pic.png" />
+      <change beforePath="$PROJECT_DIR$/my_model.h5" afterPath="$PROJECT_DIR$/my_model.h5" />
+      <change beforePath="$PROJECT_DIR$/test_prac.py" afterPath="$PROJECT_DIR$/test_prac.py" />
+      <change beforePath="$PROJECT_DIR$/test_y.csv" afterPath="$PROJECT_DIR$/test_y.csv" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/Prac_2.iml" afterPath="$PROJECT_DIR$/../Prac_2/.idea/Prac_2.iml" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/../Prac_2/.idea/inspectionProfiles/Project_Default.xml" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/misc.xml" afterPath="$PROJECT_DIR$/../Prac_2/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/modules.xml" afterPath="$PROJECT_DIR$/../Prac_2/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/other.xml" afterPath="$PROJECT_DIR$/../Prac_2/.idea/other.xml" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Prac_2/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/data.zip" afterPath="$PROJECT_DIR$/../Prac_2/data.zip" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/data/sample_submit.csv" afterPath="$PROJECT_DIR$/../Prac_2/data/sample_submit.csv" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/data/test.csv" afterPath="$PROJECT_DIR$/../Prac_2/data/test.csv" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/data/train.csv" afterPath="$PROJECT_DIR$/../Prac_2/data/train.csv" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/load_data.py" afterPath="$PROJECT_DIR$/../Prac_2/load_data.py" />
+      <change beforePath="$PROJECT_DIR$/../Prac_2/mian.py" afterPath="$PROJECT_DIR$/../Prac_2/mian.py" />
+      <change beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,9 +452,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Prac_1$Graphic_recognition.coverage" NAME="Graphic recognition Coverage Results" MODIFIED="1519381998305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Prac_1$test.coverage" NAME="test Coverage Results" MODIFIED="1516427514249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Prac_1$load_data.coverage" NAME="load_data Coverage Results" MODIFIED="1513882539279" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Prac_1$test_prac.coverage" NAME="test_prac Coverage Results" MODIFIED="1513879328077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Prac_1$Graphic_recognition.coverage" NAME="Graphic recognition Coverage Results" MODIFIED="1514314630934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -31,8 +474,8 @@
       <file leaf-file-name="Graphic recognition.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="80" column="20" lean-forward="false" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+            <state relative-caret-position="1180">
+              <caret line="95" column="41" lean-forward="false" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
               <folding>
                 <element signature="e#24#63#0" expanded="true" />
               </folding>
@@ -43,8 +486,8 @@
       <file leaf-file-name="load_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/load_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="240">
+              <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
               <folding>
                 <element signature="e#191#210#0" expanded="true" />
               </folding>
@@ -71,11 +514,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/test_prac.py" />
         <option value="$PROJECT_DIR$/Graphic recognition.py" />
+        <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/load_data.py" />
       </list>
     </option>
@@ -87,13 +534,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-134" />
-    <option name="y" value="-4" />
+    <option name="x" value="55" />
+    <option name="y" value="23" />
     <option name="width" value="1879" />
-    <option name="height" value="1065" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -106,12 +556,26 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Prac_1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Prac_1" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Prac_2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,6 +628,25 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Prac_1" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="test_prac" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -183,16 +666,18 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Python.load_data" />
       <item index="1" class="java.lang.String" itemvalue="Python.Graphic recognition" />
       <item index="2" class="java.lang.String" itemvalue="Python.test_prac" />
+      <item index="3" class="java.lang.String" itemvalue="Python.test" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="4">
         <item index="0" class="java.lang.String" itemvalue="Python.Graphic recognition" />
-        <item index="1" class="java.lang.String" itemvalue="Python.load_data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_prac" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.load_data" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_prac" />
       </list>
     </recent_temporary>
   </component>
@@ -213,20 +698,19 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="-4" width="1879" height="1085" extended-state="6" />
+    <frame x="42" y="23" width="1879" height="1057" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928064" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37166214" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37125748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25504088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25748503" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6277929" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20413718" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SmartIM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -235,31 +719,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SmartIM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3760218" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25504088" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970026" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="SmartIM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3991684" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -283,6 +745,158 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding>
+            <element signature="e#191#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding>
+            <element signature="e#191#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding>
+            <element signature="e#191#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+          <folding>
+            <element signature="e#191#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="12" lean-forward="false" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="18" lean-forward="true" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="e#191#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#63#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/load_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="22" selection-end-column="24" />
+          <folding>
+            <element signature="e#191#210#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -460,13 +1074,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1987">
-          <caret line="756" column="16" lean-forward="false" selection-start-line="756" selection-start-column="16" selection-end-line="756" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///usr/local/lib/python2.7/dist-packages/keras/models.py" />
     <entry file="file://$PROJECT_DIR$/data/test.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -491,10 +1099,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test_prac.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py" />
     <entry file="file://$PROJECT_DIR$/load_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="43" lean-forward="false" selection-start-line="21" selection-start-column="43" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="240">
+          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
             <element signature="e#191#210#0" expanded="true" />
           </folding>
@@ -503,19 +1120,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Graphic recognition.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="80" column="20" lean-forward="false" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="1180">
+          <caret line="95" column="41" lean-forward="false" selection-start-line="95" selection-start-column="41" selection-end-line="95" selection-end-column="41" />
           <folding>
             <element signature="e#24#63#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_prac.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>

@@ -13,8 +13,8 @@ import numpy as np
 from sklearn.model_selection import train_test_split
 
 
-FILE_PATH_train = "/media/chuntaojun/Mylinux/code/PythonProject/DeepingLearning/sofasofa/Prac_1/data/train.csv"
-FILE_PATH_test = "/media/chuntaojun/Mylinux/code/PythonProject/DeepingLearning/sofasofa/Prac_1/data/test.csv"
+FILE_PATH_train = "/Volumes/Extended/code/PythonProject/DeepingLearning/sofasofa/Prac_1/data/train.csv"
+FILE_PATH_test = "/Volumes/Extended/code/PythonProject/DeepingLearning/sofasofa/Prac_1/data/test.csv"
 
 
 def load_train_test_data():
