@@ -2,448 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98eb7c65-9ef5-4d1b-ac2a-df011fd10cc3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../Prac_1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/Parity learning.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/.idea/Parity learning.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/dictionaries/chuntaojun.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/.idea/dictionaries/chuntaojun.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/load_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/loss.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/loss.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Parity learning/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Parity learning/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/.idea/Prac_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/.idea/Prac_1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/4001.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/4001.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/Graphic recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/Graphic recognition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/data.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/data.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/data/sample_submit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/data/sample_submit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/data/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/data/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/data/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4000.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4000.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4001.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4002.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4002.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4003.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4003.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4004.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4004.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4005.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4005.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4006.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4006.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4007.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4007.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4008.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4008.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4009.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4009.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4010.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4010.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4011.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4011.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4012.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4012.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4013.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4013.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4014.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4014.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4015.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4015.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4016.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4016.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4017.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4017.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4018.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4018.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4019.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4019.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4020.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4020.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4021.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4021.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4022.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4022.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4023.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4023.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4024.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4024.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4025.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4025.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4026.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4026.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4027.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4027.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4028.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4028.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4029.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4029.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4030.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4030.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4031.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4031.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4032.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4032.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4033.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4033.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4034.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4034.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4035.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4035.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4036.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4036.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4037.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4037.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4038.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4038.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4039.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4039.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4040.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4040.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4041.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4041.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4042.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4042.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4043.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4043.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4044.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4044.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4045.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4045.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4046.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4046.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4047.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4047.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4048.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4048.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4049.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4049.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4050.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4050.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4051.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4051.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4052.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4052.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4053.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4053.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4054.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4054.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4055.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4055.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4056.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4056.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4057.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4057.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4058.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4058.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4059.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4059.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4060.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4060.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4061.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4061.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4062.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4062.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4063.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4063.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4064.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4064.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4065.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4065.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4066.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4066.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4067.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4067.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4068.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4068.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4069.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4069.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4070.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4070.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4071.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4071.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4072.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4072.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4073.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4073.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4074.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4074.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4075.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4075.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4076.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4076.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4077.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4077.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4078.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4078.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4079.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4079.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4080.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4080.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4081.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4081.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4082.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4082.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4083.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4083.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4084.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4084.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4085.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4085.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4086.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4086.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4087.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4087.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4088.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4088.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4089.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4089.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4090.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4090.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4091.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4091.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4092.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4092.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4093.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4093.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4094.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4094.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4095.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4095.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4096.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4096.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4097.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4097.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4098.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4098.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4099.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4099.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4100.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4100.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4101.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4101.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4102.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4102.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4103.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4103.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4104.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4104.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4105.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4105.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4106.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4106.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4107.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4107.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4108.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4108.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4109.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4109.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4110.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4110.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4111.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4111.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4112.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4112.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4113.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4113.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4114.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4114.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4115.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4115.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4116.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4116.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4117.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4117.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4118.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4118.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4119.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4119.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4120.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4120.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4121.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4121.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4122.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4122.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4123.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4123.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4124.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4124.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4125.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4125.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4126.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4126.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4127.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4127.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4128.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4128.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4129.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4129.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4130.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4130.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4131.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4131.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4132.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4132.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4133.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4133.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4134.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4134.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4135.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4135.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4136.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4136.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4137.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4137.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4138.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4138.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4139.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4139.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4140.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4140.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4141.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4141.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4142.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4142.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4143.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4143.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4144.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4144.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4145.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4145.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4146.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4146.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4147.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4147.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4148.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4148.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4149.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4149.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4150.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4150.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4151.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4151.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4152.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4152.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4153.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4153.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4154.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4154.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4155.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4155.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4156.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4156.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4157.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4157.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4158.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4158.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4159.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4159.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4160.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4160.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4161.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4161.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4162.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4162.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4163.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4163.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4164.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4164.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4165.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4165.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4166.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4166.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4167.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4167.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4168.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4168.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4169.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4169.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4170.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4170.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4171.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4171.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4172.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4172.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4173.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4173.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4174.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4174.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4175.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4175.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4176.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4176.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4177.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4177.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4178.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4178.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4179.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4179.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4180.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4180.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4181.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4181.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4182.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4182.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4183.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4183.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4184.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4184.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4185.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4185.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4186.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4186.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4187.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4187.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4188.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4188.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4189.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4189.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4190.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4190.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4191.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4191.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4192.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4192.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4193.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4193.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4194.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4194.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4195.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4195.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4196.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4196.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4197.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4197.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4198.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4198.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4199.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4199.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4200.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4200.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4201.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4201.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4202.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4202.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4203.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4203.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4204.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4204.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4205.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4205.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4206.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4206.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4207.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4207.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4208.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4208.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4209.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4209.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4210.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4210.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4211.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4211.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4212.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4212.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4213.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4213.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4214.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4214.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4215.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4215.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4216.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4216.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4217.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4217.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4218.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4218.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4219.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4219.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4220.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4220.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4221.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4221.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4222.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4222.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4223.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4223.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4224.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4224.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4225.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4225.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4226.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4226.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4227.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4227.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4228.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4228.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4229.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4229.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4230.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4230.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4231.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4231.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4232.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4232.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4233.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4233.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4234.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4234.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4235.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4235.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4236.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4236.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4237.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4237.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4238.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4238.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4239.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4239.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4240.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4240.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4241.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4241.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4242.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4242.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4243.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4243.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4244.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4244.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4245.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4245.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4246.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4246.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4247.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4247.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4248.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4248.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4249.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4249.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4250.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4250.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4251.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4251.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4252.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4252.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4253.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4253.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4254.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4254.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4255.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4255.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4256.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4256.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4257.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4257.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4258.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4258.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4259.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4259.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4260.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4260.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4261.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4261.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4262.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4262.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4263.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4263.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4264.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4264.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4265.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4265.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4266.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4266.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4267.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4267.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4268.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4268.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4269.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4269.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4270.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4270.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4271.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4271.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4272.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4272.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4273.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4273.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4274.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4274.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4275.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4275.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4276.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4276.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4277.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4277.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4278.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4278.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4279.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4279.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4280.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4280.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4281.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4281.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4282.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4282.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4283.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4283.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4284.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4284.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4285.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4285.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4286.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4286.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4287.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4287.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4288.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4288.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4289.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4289.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4290.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4290.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4291.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4291.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4292.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4292.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4293.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4293.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4294.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4294.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4295.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4295.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4296.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4296.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4297.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4297.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4298.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4298.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4299.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4299.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4300.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4300.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4301.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4301.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4302.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4302.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4303.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4303.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4304.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4304.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4305.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4305.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4306.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4306.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4307.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4307.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4308.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4308.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4309.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4309.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4310.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4310.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4311.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4311.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4312.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4312.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4313.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4313.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4314.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4314.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4315.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4315.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4316.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4316.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4317.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4317.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4318.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4318.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4319.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4319.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4320.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4320.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4321.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4321.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4322.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4322.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4323.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4323.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4324.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4324.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4325.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4325.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4326.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4326.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4327.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4327.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4328.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4328.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4329.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4329.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4330.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4330.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4331.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4331.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4332.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4332.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4333.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4333.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4334.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4334.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4335.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4335.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4336.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4336.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4337.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4337.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4338.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4338.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4339.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4339.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4340.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4340.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4341.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4341.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4342.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4342.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4343.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4343.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4344.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4344.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4345.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4345.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4346.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4346.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4347.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4347.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4348.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4348.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4349.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4349.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4350.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4350.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4351.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4351.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4352.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4352.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4353.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4353.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4354.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4354.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4355.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4355.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4356.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4356.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4357.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4357.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4358.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4358.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4359.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4359.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4360.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4360.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4361.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4361.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4362.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4362.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4363.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4363.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4364.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4364.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4365.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4365.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4366.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4366.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4367.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4367.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4368.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4368.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4369.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4369.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4370.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4370.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4371.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4371.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4372.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4372.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4373.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4373.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4374.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4374.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4375.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4375.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4376.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4376.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4377.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4377.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4378.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4378.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4379.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4379.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4380.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4380.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4381.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4381.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4382.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4382.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4383.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4383.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4384.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4384.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4385.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4385.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4386.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4386.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4387.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4387.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4388.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4388.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4389.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4389.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4390.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4390.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4391.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4391.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4392.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4392.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4393.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4393.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4394.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4394.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4395.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4395.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4396.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4396.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4397.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4397.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4398.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4398.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4399.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4399.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/img/4400.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/img/4400.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/load_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/loss_pic.png" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/loss_pic.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/my_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/my_model.h5" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/test_prac.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/test_prac.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_1/test_y.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_1/test_y.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/Prac_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/.idea/Prac_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/other.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/.idea/other.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/data.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/data.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/data/sample_submit.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/data/sample_submit.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/data/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/data/test.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/data/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/data/train.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/load_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Prac_2/load_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Prac_2/mian.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/dnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/load_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/load_file.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prac_4.h5" beforeDir="false" afterPath="$PROJECT_DIR$/prac_4.h5" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -455,7 +17,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Prac_4$write_file.coverage" NAME="write_file Coverage Results" MODIFIED="1522568649882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Prac_4$load_file.coverage" NAME="load_file Coverage Results" MODIFIED="1522477284429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Prac_4$dnn.coverage" NAME="dnn Coverage Results" MODIFIED="1522597846190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Prac_4$dnn.coverage" NAME="dnn Coverage Results" MODIFIED="1522632580676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -476,8 +38,8 @@
       <file leaf-file-name="load_file.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/load_file.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            <state relative-caret-position="208">
+              <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
               <folding>
                 <element signature="e#24#43#0" expanded="true" />
               </folding>
@@ -497,8 +59,8 @@
       <file leaf-file-name="dnn.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dnn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+            <state relative-caret-position="176">
+              <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
               <folding>
                 <element signature="e#24#70#0" expanded="true" />
               </folding>
@@ -527,8 +89,8 @@
       <file leaf-file-name="train.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/train.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="142" selection-start-column="142" selection-end-column="152" />
+            <state relative-caret-position="3037872">
+              <caret line="189867" selection-start-line="189867" selection-end-line="189867" />
             </state>
           </provider>
         </entry>
@@ -575,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -591,7 +154,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -699,16 +261,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="42" y="23" width="1878" height="1057" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50108933" side_tool="true" weight="0.5385417" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Python Console" order="10" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49891067" visible="true" weight="0.5385417" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49891067" weight="0.5385417" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2603486" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2630719" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" weight="0.3295207" />
       <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.3295207" />
@@ -725,24 +286,24 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2630719" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25490198" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info active="true" anchor="right" id="SciView" order="3" visible="true" weight="0.3295207" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49945533" visible="true" weight="0.5385417" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49891067" weight="0.5385417" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3295207" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50054467" side_tool="true" weight="0.5385417" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50108933" side_tool="true" weight="0.5385417" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" visible="true" weight="0.3295207" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
@@ -1129,27 +690,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/train.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="142" selection-start-column="142" selection-end-column="152" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/load_file.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        <state relative-caret-position="208">
+          <caret line="13" column="49" lean-forward="true" selection-start-line="13" selection-start-column="49" selection-end-line="13" selection-end-column="49" />
           <folding>
             <element signature="e#24#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/train.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3037872">
+          <caret line="189867" selection-start-line="189867" selection-end-line="189867" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        <state relative-caret-position="176">
+          <caret line="24" column="59" lean-forward="true" selection-start-line="24" selection-start-column="59" selection-end-line="24" selection-end-column="59" />
           <folding>
             <element signature="e#24#70#0" expanded="true" />
           </folding>

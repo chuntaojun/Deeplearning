@@ -20,7 +20,7 @@ class DNN_Model(object):
         x_dropout_1 = Dropout(rate=0.2)(x_dense_1)
         x_dense_2 = Dense(units=128, activation='relu')(x_dropout_1)
         x_dropout_2 = Dropout(rate=0.1)(x_dense_2)
-        x_dense_3 = Dense(units=256, activation='relu', use_bias=True)(x_dropout_2)
+        x_dense_3 = Dense(units=128, activation='relu', use_bias=False)(x_dropout_2)
         x_dense_4 = Dense(units=64, activation='relu', use_bias=True)(x_dense_3)
         y = Dense(units=1, activation='sigmoid')(x_dense_4)
 

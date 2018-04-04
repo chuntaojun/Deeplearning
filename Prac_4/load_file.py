@@ -2,6 +2,7 @@
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
+import sklearn.preprocessing as scale
 
 
 class LoadData(object):
@@ -23,7 +24,8 @@ class LoadData(object):
 
     def train_test_data(self):
         data_train, data_test = self.loading()
-        train_x, test_x, train_y, test_y = train_test_split(data_train[:, 0: -1], data_train[:, -1],
+        __myscale = scale.MinMaxScaler(feature_range=(0, 1))
+        train_x, test_x, train_y, test_y = train_test_split(__myscale.fit_transform(data_train[:, 0: -1]), data_train[:, -1],
                                                             test_size=0.2,
                                                             shuffle=True)
         return train_x, train_y, test_x, test_y
