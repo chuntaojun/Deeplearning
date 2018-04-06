@@ -46,7 +46,7 @@ def train_model(batch_size=64, verbose=2, validation_split=0.1, type='dense'):
     :param type:
     :return:
     """
-    train_name, train_sex, test_name = ld.load_data(type=type)
+    train_name, train_sex, test_name, test_sex = ld.load_data(type=type)
     model = build_model(train_name, type=type)
     history = model.fit(train_name, train_sex,
                         batch_size=batch_size,
@@ -57,8 +57,8 @@ def train_model(batch_size=64, verbose=2, validation_split=0.1, type='dense'):
     plt.plot(history.history['val_loss'], label='test')
     plt.legend()
     plt.show()
-    # score = model.evaluate(test_name, test_sex,
-    #                        batch_size=batch_size)
+    score = model.evaluate(test_name, test_sex,
+                           batch_size=batch_size)
     predictions = model.predict(test_name,
                                 batch_size=batch_size,
                                 verbose=1)

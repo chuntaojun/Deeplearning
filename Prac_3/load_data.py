@@ -50,8 +50,8 @@ def load_data_dense(fileName_train=FILE_TRAIN_PATH, fileName_test=FILE_TEST_PATH
         return np.array(map(listExtend, names))
 
     train_name = name2vec(train_name);test_name = name2vec(test_name)
-    print(test_name.shape)
-    return train_name, train_sex, test_name
+    train_x, test_x, train_y, test_y = train_test_split(train_name, train_sex, test_size=0.3)
+    return train_x, train_y, test_x, test_y
 
 
 def load_data_conv(fileName_train=FILE_TRAIN_PATH, fileName_test=FILE_TEST_PATH):
