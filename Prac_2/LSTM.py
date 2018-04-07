@@ -28,7 +28,7 @@ def built_model(data):
               use_bias=True,
               activation="relu")(x_dense_1)
     model = Model(inputs=inputs, outputs=y)
-    model.compile(loss='mse',
+    model.compile(loss='mape',
                   optimizer='adam',
                   metrics=['mape'])
     model.summary()
